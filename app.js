@@ -465,35 +465,36 @@ app.post("/accountCreationSSE", async (req, res) => {
 
     console.log("Step 1: Validating input data.");
      console.log(req.body);
-    const {
-      firstName,
-      lastName,
-      email,
-      businessName,
-      phone,
-      address,
-      city,
-      state,
-      country,
-      postal_code,
-      snapshotId,
-    } = req.body;
-    if (
-      !firstName ||
-      !lastName ||
-      !email ||
-      !businessName ||
-      !phone ||
-      !address ||
-      !city ||
-      !state ||
-      !country ||
-      !postal_code
-    ) {
-      console.error("Missing required fields in the request body.");
-      sendEvent("❌ Error: Missing required fields.");
-      return res.end();
-    }
+const {
+  first_name: firstName,
+  last_name: lastName,
+  email,
+  business_name: businessName,
+  phone,
+  address1: address,
+  city,
+  state,
+  country,
+  postal_code: postalCode,
+  contact_id: snapshotId,
+} = req.body;
+
+if (
+  !firstName ||
+  !lastName ||
+  !email ||
+  !businessName ||
+  !phone ||
+  !address ||
+  !city ||
+  !state ||
+  !country ||
+  !postalCode
+) {
+  console.error("Missing required fields in the request body.");
+  sendEvent("❌ Error: Missing required fields.");
+  return res.end();
+}
     console.log("Step 1 Completed: All required fields are provided.");
 
     // ==============================================================
