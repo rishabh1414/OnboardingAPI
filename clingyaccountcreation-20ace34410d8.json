@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "clingyaccountcreation",
+  "private_key_id": "20ace34410d80a7051d89d8f2afdcfd165eefd43",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDfMNN1SIRDKk18\nVMIsmdvT3/ad0Gps7+jrs86xQzQcdwG2b36F+3XXRFc5ZbsVeoOl2O5OPgV7ph8V\nnYMXMqUXgSLLkCKDFoKUj3hEt1MCjFCL0D1srpMN9RN5908OfjzoGFW4fIxvp1y/\nsMy9GCAE41A2yDBGhP0yBz+2WXkt8e+d0570JuDBnzKQMItToNiTg6ZLmnjuiKPB\nFdzKKq1LAJIhp5ywBTFOYIpYCdVwkZe0Be3KIp6GVAQFtQ0q6GbvZnARWbcz/KXl\nWubMMVA0+4hXCI5glY2NzgTomWGFAc57y0ZxeI1EpTOb/HrqKvO+zPqFPh9mAedX\nILoE9ENjAgMBAAECggEAFMJMolEwxbNLkOlGEWWGH5QD/8DnOGN5sJXN/1X9Pm1U\n1XK6IlAb/jFQqfmfIWvk9SoGKdtCIbJ3AnwSBoUi+3RHywZu9bsqp6xO4JiEhtO+\n/u7kp67Df4rWv7aTvdXAzuP+JRim7BB1Y5O+l0ZR90jSDyZZ7YhoQtAo/UofjhKq\nki4OBwsRsJnc+JIP/NGketE0iTUdwXLT6RcJv+hl/E0s5ynaz8xPgnkrOf9vBK7I\neqi3eZlNw6yTD7aEp0ueG41F3aWqdYitzgVOlr1S+GysgMFzVqm34ELXdVSmBZJo\nq/W/SXFFsbLo+P+BSdSA+tccsGvn4WioRWGaWmX/0QKBgQD0/Br6+9PeG+/sDm4s\n32r/WIQrdLV9Do1iyOPb0sksopBS3ptktOhaAQcsumzknxfpiRSh6Zxwql9ppzLN\nDkNjSHoOOzRLlbIaDjYVdzeK1Ye1mgSPXzjXqxCbLpvNIYtNw3j+OH7PCaXz6Gtq\nLczJbTJK1tpj/SKOqsmXgFsAVQKBgQDpOdw+5QsYvCWb2CncaNHBhkmbfwRGCR1Q\nw5dmoLVmuXlrT7uVohTKLsv7KHq+4wFIkvIDW/scMiun8o8rl2It5x8fcRphBKZu\nVCprdfj6EKnLBJkd7XHN4CO2wm+a2M16UiYqfR9Xh+2MTwnFXqv2CMKJVPXWTM/0\nhBQVmXcM1wKBgByo/bMNEP00AX55NbR0Mr1KqrO2xKCruiirXdTStQxOvFmlh0Jh\n06jr4938tU6NuittCQfkH5QiqmTe1Zedqo6L5ROTI4wQKDTaIsOiHdJVJro9GXl4\nZ1r7vUaaTknSOczQKHB9RYCNHWgKcb6LOyD5cF/HAOefrpJIMqtRrdO9AoGASAY9\nVRMIxT+9YY51BwM728brzmCAYlyIOBvfEquIucuHirNZ29DtGK8xAUQz++VAzTfM\nE2uBdeisgLYwrqaWhFR+0QftvI5iE2pcm0kYdalVtkOaQZrFbW3Nua/8JVbUxfS+\nopp3ZmGs44q5GsGs21NDOIQLU33vLrTnOvBkyosCgYA6A/P5tUm0yB0Ok+RTac2S\nnrKIvEQShx8DY1ifHv+06qpXcF9xDCi2+hOV961rF32q/8T1ipGwuTrmHsKAGn1o\n0VMVpd549LFPaSwCwDD7girJ9fObi7ayw+x28EfuyOkMsamR/xVuhfNnaRzRnE85\nIqkrx8LFzcGk81CoyP7sYg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "accountcreationapp@clingyaccountcreation.iam.gserviceaccount.com",
+  "client_id": "109640675220044319551",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/accountcreationapp%40clingyaccountcreation.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

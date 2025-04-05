@@ -1,0 +1,38 @@
+# Dependency directory
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data (e.g., process IDs)
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by testing tools (e.g., Istanbul)
+coverage/
+*.lcov
+.nyc_output/
+
+# Build output directories (modify as needed for your project)
+build/
+dist/
+
+# Environment variables file (keep your secrets safe!)
+.env
+
+# IDE or Editor directories and files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
