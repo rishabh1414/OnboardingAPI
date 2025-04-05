@@ -464,6 +464,7 @@ app.post("/accountCreationSSE", async (req, res) => {
     // ==============================================================
 
     console.log("Step 1: Validating input data.");
+     console.log(req.body);
     const {
       firstName,
       lastName,
